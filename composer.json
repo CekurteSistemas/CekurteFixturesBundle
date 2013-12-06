@@ -10,10 +10,6 @@
             "homepage": "http://sistemas.cekurte.com/"
         }
     ],
-    "require": {
-        "doctrine/doctrine-fixtures-bundle": "dev-master",
-        "hautelook/alice-bundle": "dev-master"
-    },
     "autoload": {
         "psr-0": { "Cekurte\\FixturesBundle": "" }
     },
