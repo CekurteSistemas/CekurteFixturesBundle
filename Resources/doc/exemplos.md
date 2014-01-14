@@ -1,6 +1,8 @@
-## Exemplos
+# Exemplos
 
 Agora vamos ver alguns exemplos práticos de fixtures data.
+
+- Autores de um Blog:
 
 ```yml
 # app/Resources/fixtures/Autor.yml
@@ -12,7 +14,7 @@ Cekurte\BlogBundle\Entity\Autor:
         curriculo: <text(200)>
 ```
 
-Integração com FOSUserBundle:
+- Integração com FOSUserBundle:
 
 ```yml
 # app/Resources/fixtures/Group.yml
@@ -28,7 +30,7 @@ Cekurte\Custom\UserBundle\Entity\Group:
             - ['ROLE_USER']
 ```
 
-Estados do Brasil:
+- Estados do Brasil:
 
 ```yml
 # app/Resources/fixtures/Estado.yml
@@ -142,9 +144,8 @@ Cekurte\Custom\UserBundle\Entity\Estado:
       id: 27
       sigla: "SE"
       nome: "SERGIPE"
-
 ```
 
-Você poderá encontrar mais exemplos (além da documentação completa de Fakes Data) no repositório [nelmio/alice](https://github.com/nelmio/alice).
+Você poderá encontrar mais exemplos (além da documentação completa de FakesData) no repositório [nelmio/alice](https://github.com/nelmio/alice).
 
 [Voltar para a Configuração](configuracao.md) - [Ver a Execução](execucao.md)

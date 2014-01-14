@@ -1,4 +1,4 @@
-## Configuração
+# Configuração
 
 No seu arquivo de configuração para o ambiente de desenvolvimento `app/config/config_dev.yml` adicione a seguinte entrada:
 
@@ -19,7 +19,7 @@ Em **directory** você poderá colocar o path que achar conveniente.
 
 Em **resources** você irá especificar que arquivos de fixtures serão carregados. Para cada linha especificada deverá haver um arquivo correspondente dentro do diretório especificado com a extensão **.yml**.
 
-### Notas:
+## Notas:
 
 Se você manter a configuração padrão (exibida acima), então, deverá criar o seguinte diretório: `app/Resources/fixtures/`
 

@@ -1,6 +1,6 @@
 # CekurteFixturesBundle
 
-A seguir você será guiado passo a passo para configurar este bundle no seu projeto.
+A seguir você será guiado para configurar e utilizar este bundle no seu projeto.
 
 Serão abordados os seguintes procedimentos:
 
@@ -11,4 +11,5 @@ Serão abordados os seguintes procedimentos:
 - [Exemplos](exemplos.md)
 - [Execução](execucao.md)
 
-Desenvolvido por [João Paulo Cercal](http://sistemas.cekurte.com "João Paulo Cercal")
+
+[Voltar para o README](https://github.com/CekurteSistemas/CekurteFixturesBundle/blob/master/README.md)

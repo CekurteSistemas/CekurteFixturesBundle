@@ -1,4 +1,4 @@
-## Instalação
+# Instalação
 
 Assumimos que você já tenha o binário do composer instalado ou o arquivo composer.phar, sendo assim, execute o seguinte comando:
 
