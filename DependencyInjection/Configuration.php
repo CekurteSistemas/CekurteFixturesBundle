@@ -23,10 +23,7 @@ class Configuration implements ConfigurationInterface
         $rootNode
             ->children()
                 ->scalarNode('directory')->end()
-                ->arrayNode('resources')
-                    ->prototype('scalar')
-                    ->end()
-                ->end()
+                ->variableNode('resources')->end()
             ->end()
         ;
 
